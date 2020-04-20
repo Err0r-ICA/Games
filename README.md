@@ -1,12 +1,12 @@
 # Termux-Games
 <strong><u>Play Games on Termux</u></strong> 🎮<br>
 
-<b>Games is a Script where you can find all The Games that Are available for Termux.</b> 
-<b>I have included All the games that are available in Termux Repository. </b>
-<b>I have also included some games that are on GitHub or written in other languages other than bash like Hangman and 2048.</b>
-<b>This Script is not complete yet, We are still working on it so We will add more games in the Future.</b>
+<b>Games is a Script where you can find all The Games that Are available for Termux.</b><br> 
+<b>I have included All the games that are available in Termux Repository. </b><br>
+<b>I have also included some games that are on GitHub or written in other languages other than bash like Hangman and 2048.</b><br>
+<b>This Script is not complete yet, We are still working on it so We will add more games in the Future.</b><br>
 
-Author👨‍💻: ITALIA CYBER ARMY <br>
+Authors 💻: ITALIA CYBER ARMY <br>
 
 Telegram  : https://t.me/termuxxhacking <br>
 
