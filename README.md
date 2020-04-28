@@ -19,10 +19,9 @@ Instagram : https://www.instagram.com/termux_hacking <br>
 <br>
 ```chmod +x *```
 <br>
-```bash install.sh```
+```bash install sh ; bash Games```
 <br>
-bash Games
-<br>
+
 
 ## Screenshot 
 ![Screenshot](https://i.postimg.cc/sjyW16XV/Screenshot-20200425-141114-Termux.jpg) 
