@@ -7,28 +7,31 @@
 <b>This Script is not complete yet, We are still working on it so We will add more games in the Future.</b><br>
 
 Authors 💻: ITALIA CYBER ARMY <br>
-
 Telegram  : https://t.me/termuxxhacking <br>
-
 Instagram : https://www.instagram.com/termux_hacking <br>
 
 ## Install Games 📲 :
-
 ```pkg i git -y```
 <br>
-<br>
 ```git clone https://github.com/Err0r-ICA/Games/```
-<br><br>
+<br>
 ```cd Games```
-<br><br>
+<br>
 ```chmod +x *```
-<br><br>
+<br>
 ```bash install.sh```
 <br>
+bash Games
 <br>
 
 ## Screenshot 
 ![Screenshot](https://i.postimg.cc/sjyW16XV/Screenshot-20200425-141114-Termux.jpg) 
 
-### Main Input: bash Games
+### My Accounts
+
+* [TELEGRAM](https://t.me/termuxxhacking)
+
+* [FACEBOOK](https://www.facebook.com/termuxxhacking)
+
+* [INSTAGRAM](https://instagram.com/termux_hacking)
 
