@@ -6,10 +6,6 @@
 <b>I have also included some games that are on GitHub or written in other languages other than bash like Hangman and 2048.</b><br>
 <b>This Script is not complete yet, We are still working on it so We will add more games in the Future.</b><br>
 
-Authors 💻: ITALIA CYBER ARMY <br>
-Telegram  : https://t.me/termuxxhacking <br>
-Instagram : https://www.instagram.com/termux_hacking <br>
-
 ## Install Games 📲 :
 ```pkg i git -y```
 <br>
@@ -21,6 +17,18 @@ Instagram : https://www.instagram.com/termux_hacking <br>
 <br>
 ```bash install sh ; bash Games```
 <br>
+
+## CONNECT WITH US :
+
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/nakeeb.nitro.35)
+<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rebrand.ly/insgrm)
+[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://rebrand.ly/noobwebs)
+[![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://rebrand.ly/linkedinprof)
+[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://rebrand.ly/fsbpage)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/telegramchnl)
+[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://rebrand.ly/hckrgroups)
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
 
 
 ## Screenshot 
