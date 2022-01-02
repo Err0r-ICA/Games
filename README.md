@@ -46,9 +46,8 @@
  
 ```diff
 +prova rosso
-E ora
-E ora
-E ora
-E ora 
-E ora 
+-E ora
+@@E ora
+#E ora
+!E ora 
 ```
