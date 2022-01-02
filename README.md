@@ -43,11 +43,3 @@
 [![Status](https://img.shields.io/badge/code%20status-encrypted-cyan.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues) [![License](https://img.shields.io/badge/license-MIT-blueviolet.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
 
 [![Test](https://img.shields.io/badge/tested%20on-Termux,%20Kali%20Linux,%20Ubuntu,%20Parrot%20OS,%20Debian,%20ANDRAX%20Mobile-%23ff69b4.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
- 
-```diff
-+prova rosso
--E ora
-@@E ora
-#E ora
-!E ora 
-```
