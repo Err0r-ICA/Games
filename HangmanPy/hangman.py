@@ -88,8 +88,7 @@ def hanged(man):
 # Game starter
 def start():
     print("")
-    print("Let's play Hangman!")
-    print("")
+    print("Giochiamo all'impiccato!")
     while game():
         pass
     print("")
@@ -100,7 +99,7 @@ def start():
 def game():
     the_word = word()
     word_list = the_word.split()
-    print("The word has {} letters.".format(len(the_word)))
+    print("La parola ha {} lettere.".format(len(the_word)))
     clue = len(the_word) * ["-"]
     print("")
     print("".join(clue))
